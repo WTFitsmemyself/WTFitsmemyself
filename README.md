@@ -5,5 +5,5 @@
 - 🔭 I’m currently working as a **Freelancer** expert.
 - 🌱 Learning **CEH**.
 - 👯 I’m looking to collaborate on **great project**.
-- 💬 Ask me about my experience on my [Linkedin Account](https://www.linkedin.com/itshosyn)
+- 💬 Ask me about my experience on my [Linkedin Account](https://www.linkedin.com/in/itshosyn)
 - 📫 How to reach me: **hossein.nouri79@icloud.com**
