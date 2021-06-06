@@ -2,8 +2,8 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working as **Freelancer** expert.
+- 🔭 I’m currently working as a **Freelancer** expert.
 - 🌱 Learning **CEH**.
 - 👯 I’m looking to collaborate on **great project**.
-- 💬 Ask me about my experience on my [Linkedin Account](https://www.google.com)
+- 💬 Ask me about my experience on my [Linkedin Account](https://www.linkedin.com/itshosyn)
 - 📫 How to reach me: **hossein.nouri79@icloud.com**
