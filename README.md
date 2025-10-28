@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hossein Nouri</h1>
-<h3 align ="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&center=true&color=A1263C&width=435&lines=Product+Designer;working+with+Python+and+Figma;An+Enthusiastic%2C+motivated;and+self-taught+UI/UX+Specialist;I%E2%80%99m+available+for+new+collabs" alt="Typing SVG" /></h3>
+<h3 align ="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&center=true&color=A1263C&width=435&lines=Product+Designer;working+with+Python+and+Figma;An+Enthusiastic%2C+motivated;self-taught+UI/UX+Specialist;I%E2%80%99m+available+for+new+collabs" alt="Typing SVG" /></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wtfitsmemyself&label=Profile%20views&color=0e75b6&style=flat" alt="wtfitsmemyself" /> </p>
 
