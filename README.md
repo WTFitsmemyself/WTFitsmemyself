@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wtfitsmemyself&label=Profile%20views&color=0e75b6&style=flat" alt="wtfitsmemyself" /> </p>
 
-- 🔭 I’m currently working on **TosanTechno Product Design**
+- 🔭 I’m currently working on **Lead Product Designer @ Melico**
 
 - 🌱 I’m currently learning **NLP, ML, DL**
 
