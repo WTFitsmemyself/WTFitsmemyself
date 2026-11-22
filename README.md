@@ -120,7 +120,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=wtfitsmemyself&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="Trophies" />
 </div>
 
-- 🥇 **Bitcoin Core Contributor** — Merged PR [#36879](https://github.com/bitcoin/bitcoin/pull/36879) (Integer Conversion)
+- 🥇 **Bitcoin Core Contributor** - Trying to make updates on my favorite project
 - 🐍 **100 Days of Python** — Completed daily coding challenge
 - 🤖 **AI/ML Practitioner** — Built end-to-end NLP pipelines from scratch
 - 🎨 **Lead Product Designer** — Shipping AI-powered products at Melico
