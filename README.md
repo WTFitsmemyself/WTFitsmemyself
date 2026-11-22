@@ -16,7 +16,7 @@
 | **🧠 Learning** | Advanced NLP, LLMs, MLOps, and scalable ML systems |
 | **🤝 Open to** | Collaborations on AI/ML projects, Python tooling, Product Design systems |
 | **📫 Reach Me** | [itshosyn@gmail.com](mailto:itshosyn@gmail.com) • [LinkedIn](https://linkedin.com/in/itshosyn) • [Portfolio](https://itshosyn.com) |
-| **🌍 Location** | Iran |
+| **🌍 Location** | UAE, Dubai |
 | **⚡ Fun Fact** | Contributed to **Bitcoin Core** ([#36879](https://github.com/bitcoin/bitcoin/pull/36879)) |
 
 ---
