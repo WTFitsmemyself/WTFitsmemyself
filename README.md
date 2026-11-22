@@ -17,7 +17,7 @@
 | **🤝 Open to** | Collaborations on AI/ML projects, Python tooling, Product Design systems |
 | **📫 Reach Me** | [itshosyn@gmail.com](mailto:itshosyn@gmail.com) • [LinkedIn](https://linkedin.com/in/itshosyn) • [Portfolio](https://itshosyn.com) |
 | **🌍 Location** | UAE, Dubai |
-| **⚡ Fun Fact** | Contributed to **Bitcoin Core** ([#36879](https://github.com/bitcoin/bitcoin/pull/36879)) |
+| **⚡ Fun Fact** | **Bitcoin Core** fan |
 
 ---
 
