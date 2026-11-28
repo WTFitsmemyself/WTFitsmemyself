@@ -12,7 +12,7 @@
 
 | | |
 |---|---|
-| **🎯 Current Focus** | Lead Product Designer at **Melico** — crafting AI-powered user experiences |
+| **🎯 Current Focus** | Lead Product Designer at **Melico** — crafting AI-powered user experiences in Insurance sector |
 | **🧠 Learning** | Advanced NLP, LLMs, MLOps, and scalable ML systems |
 | **🤝 Open to** | Collaborations on AI/ML projects, Python tooling, Product Design systems |
 | **📫 Reach Me** | [itshosyn@gmail.com](mailto:itshosyn@gmail.com) • [LinkedIn](https://linkedin.com/in/itshosyn) • [Portfolio](https://itshosyn.com) |
